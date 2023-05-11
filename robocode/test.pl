@@ -1,0 +1,1 @@
+atacar(Dist):-Dist < 1000.
